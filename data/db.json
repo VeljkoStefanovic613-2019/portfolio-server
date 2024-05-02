@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Codebook",
+      "overview": "Modern E-Commerce app",
+      "long_description": "E-Commerce with React, Tailwind CSS, JSON Server, JWTAuth, Context API. Hosted on Netlify/Render",
+      "image_local": "/assets/images/codebook.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/codebook/tree/main",
+      "netlify": "https://codebook-vs.netlify.app/"
+    },
+    {
+      "id": 10002,
+      "name": "Filmomat",
+      "overview": "Explore movies effortlessly with our React-based web app.",
+      "long_description": "Movie information web-application built with React, Tailwind CSS, TMDB API and deployed on Netlify",
+      "image_local": "/assets/images/product2.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/FILMOMAT",
+      "netlify": "https://filmomat.netlify.app/"
+    },
+    {
+      "id": 10003,
+      "name": "Redux-shopmate",
+      "overview": "Shopping cart project",
+      "long_description": "Integrating REDUX with shopping cart project.",
+      "image_local": "/assets/images/product3.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/shopmate-redux",
+      "netlify": "https://reduxshopmate.netlify.app/"
+    },
+    {
+      "id": 10004,
+      "name": "Weather-app",
+      "overview": "Weather-app using openweathermap api, React and tailwindcss",
+      "long_description": "Weather-app is a sleek and intuitive weather application built using React.js and styled with Tailwind CSS. It provides users with up-to-date weather information for any location around the globe, empowering them to plan their day accordingly.",
+      "image_local": "/assets/images/product4.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/weather-app",
+      "netlify": "https://weather-app-veljko.netlify.app/"
+    },
+    {
+      "id": 10005,
+      "name": "Word Counter",
+      "overview": "The Word Counter app is a handy tool for counting characters and words in any text.",
+      "long_description": "The Word Counter app is a simple yet powerful tool designed to help users count the number of characters and words in any text input. Whether you're a writer, student, or professional, this app provides an efficient way to track the length of your text in real-time.",
+      "image_local": "/assets/images/product5.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/wordcounter",
+      "netlify": "https://wordcounter-veljko.netlify.app/"
+    },
+    {
+      "id": 10006,
+      "name": "Shopmate-v2",
+      "overview": "Shopmate is a user-friendly e-commerce platform offering a diverse range of producs version 2",
+      "long_description": "Shopmate is an innovative e-commerce platform that offers a seamless shopping experience to users. With a user-friendly interface and robust features, Shopmate simplifies the process of online shopping, making it convenient and enjoyable for customers.",
+      "image_local": "/assets/images/shopmate-v2.png",
+      "github_repo": "ttps://github.com/VeljkoStefanovic613-2019/shopmate2",
+      "netlify": "https://shopmate-v2.netlify.app/"
+    },
+    {
+      "id": 10007,
+      "name": "Shopmate",
+      "overview": "Shopmate is a user-friendly e-commerce platform offering a diverse range of producs",
+      "long_description": "Shopmate is an innovative e-commerce platform that offers a seamless shopping experience to users. With a user-friendly interface and robust features, Shopmate simplifies the process of online shopping, making it convenient and enjoyable for customers.",
+      "image_local": "/assets/images/shopmate.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/shopmate",
+      "netlify": "https://shopmateproject.netlify.app/"
+    },
+    {
+      "id": 10008,
+      "name": "Terminal digital menu",
+      "overview": "A digital menu for local cafe and restaurant in Kragujevac",
+      "long_description": "A digital menu replaces traditional paper menus with electronic displays on devices like tablets or screens. They offer dynamic updates, interactive features, and detailed item descriptions, enhancing the dining experience for customers while reducing costs and improving efficiency for businesses.",
+      "image_local": "/assets/images/terminal.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/Digitalni-meni",
+      "netlify": "https://terminal7kg.netlify.app/"
+    }
+
+  ]
+}
