@@ -71,6 +71,15 @@
       "image_local": "/assets/images/terminal.png",
       "github_repo": "https://github.com/VeljkoStefanovic613-2019/Digitalni-meni",
       "netlify": "https://terminal7kg.netlify.app/"
+    },
+    {
+      "id": 10009,
+      "name": "Internet Cafe",
+      "overview": "Modern coffee shop website using react and tailwind.css",
+      "long_description": "nternet Cafe is a cozy and modern coffee shop that blends the charm of a traditional cafe with the convenience of high-speed internet. Enjoy our selection of gourmet coffees, teas, and fresh pastries while you surf the web, catch up on work, or connect with friends in a relaxed and inviting atmosphere.",
+      "image_local": "/assets/images/internetcafe.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/coffe_shop",
+      "netlify": "https://internetcafe-vs.netlify.app/"
     }
 
   ]
