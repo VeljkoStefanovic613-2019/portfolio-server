@@ -80,6 +80,15 @@
       "image_local": "/assets/images/internetcafe.png",
       "github_repo": "https://github.com/VeljkoStefanovic613-2019/coffe_shop",
       "netlify": "https://internetcafe-vs.netlify.app/"
+    },
+    {
+      "id": 10010,
+      "name": "Tic-tac-toe",
+      "overview": "Tic-tac-toe using react and tailwind.css",
+      "long_description": "Classic tic-tac-toe game",
+      "image_local": "/assets/images/tic-tac-toe.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/tic-tac-toe",
+      "netlify": "https://vs-tic-tac-toe.netlify.app/"
     }
 
   ]
