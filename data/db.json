@@ -36,9 +36,17 @@
       "image_local": "/assets/images/product4.png",
       "github_repo": "https://github.com/VeljkoStefanovic613-2019/weather-app",
       "netlify": "https://weather-app-veljko.netlify.app/"
+    },{
+      "id": 10005,
+      "name": "CodebookV2",
+      "overview": "Updated original Codebook project",
+      "long_description": "E-Commerce with admin login and functions with React, Tailwind CSS, JSON Server, JWTAuth, Context API. Hosted on Netlify/Render ",
+      "image_local": "/assets/images/codebookv2.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/codebook/tree/main",
+      "netlify": "https://codebookv2.netlify.app/"
     },
     {
-      "id": 10005,
+      "id": 10006,
       "name": "Word Counter",
       "overview": "The Word Counter app is a handy tool for counting characters and words in any text.",
       "long_description": "The Word Counter app is a simple yet powerful tool designed to help users count the number of characters and words in any text input. Whether you're a writer, student, or professional, this app provides an efficient way to track the length of your text in real-time.",
@@ -47,7 +55,7 @@
       "netlify": "https://wordcounter-veljko.netlify.app/"
     },
     {
-      "id": 10006,
+      "id": 10007,
       "name": "Shopmate-v2",
       "overview": "Shopmate is a user-friendly e-commerce platform offering a diverse range of producs version 2",
       "long_description": "Shopmate is an innovative e-commerce platform that offers a seamless shopping experience to users. With a user-friendly interface and robust features, Shopmate simplifies the process of online shopping, making it convenient and enjoyable for customers.",
@@ -56,7 +64,7 @@
       "netlify": "https://shopmate-v2.netlify.app/"
     },
     {
-      "id": 10007,
+      "id": 10008,
       "name": "Shopmate",
       "overview": "Shopmate is a user-friendly e-commerce platform offering a diverse range of producs",
       "long_description": "Shopmate is an innovative e-commerce platform that offers a seamless shopping experience to users. With a user-friendly interface and robust features, Shopmate simplifies the process of online shopping, making it convenient and enjoyable for customers.",
@@ -65,7 +73,7 @@
       "netlify": "https://shopmateproject.netlify.app/"
     },
     {
-      "id": 10008,
+      "id": 10009,
       "name": "Terminal digital menu",
       "overview": "A digital menu for local cafe and restaurant in Kragujevac",
       "long_description": "A digital menu replaces traditional paper menus with electronic displays on devices like tablets or screens. They offer dynamic updates, interactive features, and detailed item descriptions, enhancing the dining experience for customers while reducing costs and improving efficiency for businesses.",
@@ -74,7 +82,7 @@
       "netlify": "https://terminal7kg.netlify.app/"
     },
     {
-      "id": 10009,
+      "id": 10010,
       "name": "Internet Cafe",
       "overview": "Modern coffee shop website using react and tailwind.css",
       "long_description": "Internet Cafe is a cozy and modern coffee shop that blends the charm of a traditional cafe with the convenience of high-speed internet. Enjoy our selection of gourmet coffees, teas, and fresh pastries while you surf the web, catch up on work, or connect with friends in a relaxed and inviting atmosphere.",
@@ -83,7 +91,7 @@
       "netlify": "https://internetcafe-vs.netlify.app/"
     },
     {
-      "id": 10010,
+      "id": 10011,
       "name": "Tic-tac-toe",
       "overview": "Tic-tac-toe using react and tailwind.css",
       "long_description": "Classic tic-tac-toe game",
@@ -92,7 +100,7 @@
       "netlify": "https://vs-tic-tac-toe.netlify.app/"
     },
     {
-      "id": 10011,
+      "id": 10012,
       "name": "Birthday Reminder",
       "overview": "Birthday Reminder is an app to track birthdays and see which ones are today. Users can add new birthdays, view today’s birthdays, and clear the list. Data is saved in local storage.",
       "long_description": "Birthday Reminder helps you manage and celebrate birthdays. Add new birthdays by entering a name, birthday, and optional image. The app shows a list of people with birthdays on the current day and calculates their age automatically. You can also clear the entire list when needed. All data is stored in local storage for easy access across sessions.",
@@ -102,7 +110,7 @@
     },
 
     {
-      "id": 10012,
+      "id": 10013,
       "name": "Redux-shopmate",
       "overview": "Shopping cart project",
       "long_description": "Integrating REDUX with shopping cart project.",
