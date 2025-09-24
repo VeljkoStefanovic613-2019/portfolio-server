@@ -42,7 +42,7 @@
       "overview": "Updated original Codebook project",
       "long_description": "E-Commerce with admin login and functions with React, Tailwind CSS, JSON Server, JWTAuth, Context API. Hosted on Netlify/Render ",
       "image_local": "/assets/images/codebookv2.png",
-      "github_repo": "https://github.com/VeljkoStefanovic613-2019/codebook/tree/main",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/Codebook.v2",
       "netlify": "https://codebookv2.netlify.app/"
     },
     {
