@@ -20,13 +20,14 @@
     },
     {
       "id": 10003,
-      "name": "Redux-shopmate",
-      "overview": "Shopping cart project",
-      "long_description": "Integrating REDUX with shopping cart project.",
-      "image_local": "/assets/images/product3.png",
-      "github_repo": "https://github.com/VeljkoStefanovic613-2019/shopmate-redux",
-      "netlify": "https://reduxshopmate.netlify.app/"
+      "name": "Little Lemon Capstone Project",
+      "overview": "The Little Lemon Capstone Project is a front-end web application developed as part of the Meta Front-End Developer Certificate program on Coursera. This project showcases the creation of a responsive and interactive restaurant website for Little Lemon, featuring a table reservation system built with React.",
+      "long_description": "The Little Lemon Capstone Project is a responsive restaurant website built with React and Tailwind CSS as part of the Meta Front-End Developer Certificate. Users can explore the menu, view restaurant details, and make table reservations by selecting date, time, and party size.The project showcases modern front-end skills including component-based architecture, responsive design, and interactive UI elements, providing a clean, user-friendly experience across devices.",
+      "image_local": "/assets/images/little-lemon.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/little-lemon-capstone-project",
+      "netlify": "https://little-lemon-projcet.netlify.app/"
     },
+   
     {
       "id": 10004,
       "name": "Weather-app",
@@ -98,6 +99,16 @@
       "image_local": "/assets/images/birthdayreminder.png",
       "github_repo": "https://github.com/VeljkoStefanovic613-2019/birthdayreminder",
       "netlify": "https://rodjendanskipodsetnik.netlify.app/"
+    },
+
+    {
+      "id": 10012,
+      "name": "Redux-shopmate",
+      "overview": "Shopping cart project",
+      "long_description": "Integrating REDUX with shopping cart project.",
+      "image_local": "/assets/images/product3.png",
+      "github_repo": "https://github.com/VeljkoStefanovic613-2019/shopmate-redux",
+      "netlify": "https://reduxshopmate.netlify.app/"
     }
 
   ]
